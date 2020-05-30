@@ -66,5 +66,6 @@
 
 	<modules>
 		<module>examProjectB</module>
+		<module>examProjectC</module>
 	</modules>
 </project>
