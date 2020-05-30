@@ -11,7 +11,7 @@
 	<groupId>tools</groupId>
 	<artifactId>examProjectA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 	<name>examProjectA</name>
 	<description>project for Spring Boot</description>
 
@@ -64,4 +64,7 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>examProjectB</module>
+	</modules>
 </project>
